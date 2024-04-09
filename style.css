@@ -1,0 +1,35 @@
+body {
+    background-color: #f0f5ff; /* Azul claro */
+  }
+  
+  .navbar {
+    background-color: #002366; /* Azul oscuro */
+  }
+  
+  .jumbotron {
+    background-color: #ffffff; /* Blanco */
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+  }
+  
+  #controlTexto {
+    color: #002366; /* Azul oscuro */
+  }
+  
+  .footer {
+    background-color: #002366; /* Azul oscuro */
+  }
+  
+  .text-white {
+    color: #ffffff !important;
+  }
+  
+  #startRecognition {
+    background-color: #002366; /* Azul oscuro */
+    border: none;
+  }
+  
+  #startRecognition:hover {
+    background-color: #001a33; /* Azul más oscuro al pasar el mouse */
+  }
+  
